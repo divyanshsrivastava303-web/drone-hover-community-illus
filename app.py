@@ -46,7 +46,7 @@ st.subheader("📈 Training Statistics")
 st.markdown("""
 All training metrics (Reward, Jitter Penalty, etc.) were tracked in real-time during the PPO learning process. 
 
-👉 **[Click here to view the full interactive Weights & Biases Report](https://wandb.ai/divyanshsrivastava303-srm-institute-of-science-and-techn/drone-stabilization?nw=nwuserdivyanshsrivastava303)**
+👉 **[Click here to view the full interactive Weights & Biases Report](https://wandb.ai/divyanshsrivastava303-srm-institute-of-science-and-techn/drone-stabilization)**
 """)
 
 st.divider()
